@@ -1,0 +1,35 @@
+\documentclass[journal]{IEEEtran}
+
+%opening
+\title{\textbf{Automatic Content Based Image Organization and Ranking on Mobile devices}}
+
+\author{Anup Mohan\\
+ECE, Purdue University\\
+mohan11@purdue.edu\\
+\and
+Youngsol Koh\\
+ECE, Purdue University\\
+koh0@purdue.edu\\
+\and
+Richa Agarwal\\
+ECE, Purdue University\\
+agarwa82@purdue.edu\\
+
+}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+The number of mobile phone and Tablet users have increased rapidly over the past decade. The mobile devices are equipped with 
+high quality cameras for the purdpose of taking images and videos. It is common to have thousands of images in a mobile device.
+Hence it is important to automatically organize and rank the images based on its content as it becomes cumbersome to manually
+group images based on its content and decide whether an image is of good qualtiy or not. In this paper we develop a mobile 
+application to organize images based on, the facial feature information of the users, computer generated images meme vs images 
+taken from a camera. Our application will also rank images based on a no-reference blur metric and decide whether the image is 
+of good quality or not. We 
+\end{abstract}
+
+
+\end{document}
